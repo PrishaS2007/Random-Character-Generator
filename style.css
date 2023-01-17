@@ -1,0 +1,27 @@
+html {
+    background: URL("img/character-image.jpg") no-repeat center fixed;
+    background-size: cover;
+}
+
+body {
+    background-color: rgba(255, 255, 255, 0.836);
+    width: 800px;
+    height: 750px;
+    padding-top: 100px;
+    margin: 25px auto;
+    border-radius: 10px;
+    text-align: center;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+
+}
+
+button {
+    padding: 15px 45px;
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button:hover {
+    cursor: pointer
+}
